@@ -22,7 +22,7 @@ Class: ???
 
 [Here is a link](https://github.com/JAMK-IT/TTOW0211-221-game-development/wiki/material) for our material & resources wiki page. 
 
-If you find something useful, please inform Paavo on Slack for example!
+If you find something useful, please inform @paavonelimarkka on Slack for example!
 
 ## Assignments
 
