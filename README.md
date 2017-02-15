@@ -2,7 +2,7 @@
 
 Lecturers: Jouni Huotari, Paavo Nelimarkka, Mika Karhulahti, Mikko Tyni, etc...
 Contact: ???  
-Class: ???
+Class: D420 + D407
 
 - [Full course timetable](http://homes.jamk.fi/~luoha/opetus/PKK_2017/)
 - [Assignments and grading]()
