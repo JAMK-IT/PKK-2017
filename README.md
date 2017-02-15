@@ -4,19 +4,10 @@ Lecturers: Jouni Huotari, Paavo Nelimarkka, Mika Karhulahti, Mikko Tyni, etc...
 Contact: ???  
 Class: ???
 
-- [Full course timetable]() TBA
-- [Assignments and grading]() TBA
+- [Full course timetable](http://homes.jamk.fi/~luoha/opetus/PKK_2017/)
+- [Assignments and grading]()
 - [Wiki](https://github.com/JAMK-IT/PKK-2017/wiki)
 - [Slack](https://pkk-2017.slack.com)
-
-
-## Lessons
-| Day | Subjects | Misc |
-|:--------|:----------:|-----:|
-| 6.3. | Course introduction, TBA | ... | 
-| 7.3. | TBA | ... | 
-| jne | ... | ... | 
-
 
 ## Learning material & Resources
 
